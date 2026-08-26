@@ -46,6 +46,7 @@ GitHub Pages **deployment mirror** of `librus-shell` `dist/` for **https://doutr
 2. **Flavor:** `doutrina` (codification shelf, Luz + full providers)  
 3. **UI source:** [`librus-shell`](https://github.com/sergioSHKLR/librus-shell)  
 4. **Content source:** [`doutrina-content`](https://github.com/sergioSHKLR/doutrina-content)  
+5. **Live beta UX** (owned by shell): narrow screens blocked; first-visit Device/How to onboard — see [`librus-shell` README](https://github.com/sergioSHKLR/librus-shell).  
 
 ## ⚠️ Do not hand-edit the app
 
@@ -91,6 +92,7 @@ Espelho de publicação (GitHub Pages) do `dist/` de `librus-shell` em **https:/
 2. **Sabor:** `doutrina`  
 3. **UI:** [`librus-shell`](https://github.com/sergioSHKLR/librus-shell)  
 4. **Conteúdo:** [`doutrina-content`](https://github.com/sergioSHKLR/doutrina-content)  
+5. **UX beta ao vivo** (no shell): telas estreitas bloqueadas; onboard Dispositivo/Como usar na 1ª visita — ver [README do librus-shell](https://github.com/sergioSHKLR/librus-shell).  
 
 ## ⚠️ Não edite o app à mão
 
